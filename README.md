@@ -6,16 +6,16 @@ A dynamic and interactive sales intelligence dashboard designed to analyze custo
 The Sales Analytics Dashboard is a visually rich Power BI report that enables users to monitor sales performance, explore customer segments, and evaluate monthly and yearly trends. It is built for managers, analysts, and researchers seeking data-driven insights into business growth and operational efficiency.
 
 ### 3.	Tech Stack
-The dashboard was built using the following tools and technologies:
+The dashboard was built using the following tools and technologies:<br>
 
-• Power BI Desktop – Primary platform for building interactive visualizations
-• Power Query – Data cleaning, transformation, and preparation
-• DAX (Data Analysis Expressions) – Measures, KPIs, and calculated insights
-• Data Modeling – Relationship building for cross-filtering and aggregation
-• File Format – .pbix for development and .png for dashboard preview
+• Power BI Desktop – Primary platform for building interactive visualizations<br>
+• Power Query – Data cleaning, transformation, and preparation<br>
+• DAX (Data Analysis Expressions) – Measures, KPIs, and calculated insights<br>
+• Data Modeling – Relationship building for cross-filtering and aggregation<br>
+• File Format – .pbix for development and .png for dashboard preview<br>
 
 ### 4.	Data Source
-Sample retail sales dataset
+Sample retail sales dataset<br>
 The dataset contains transactional sales records including:
 • Customer category information
 • City-wise sales data
@@ -56,5 +56,4 @@ Interactive Filters (Slicers): Year and month filters allow users to drill down 
 • Decision Support: Enable data-driven marketing and inventory planning
 
 ### 6.	Screenshots / Demos
-Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
-Example: ![Dashboard Preview](https://github.com/AHMEDiftakher/Sales-Report-Dashboard-PowerBI/blob/main/Sales-Report-Dashboard-PowerBI.PNG))
+ ![Dashboard Preview](https://github.com/AHMEDiftakher/Sales-Report-Dashboard-PowerBI/blob/main/Sales-Report-Dashboard-PowerBI.PNG))
