@@ -56,4 +56,4 @@ Interactive Filters (Slicers): Year and month filters allow users to drill down 
 • Decision Support: Enable data-driven marketing and inventory planning<br>
 
 ### 6.	Screenshots / Demos
- ![Dashboard Preview](https://github.com/AHMEDiftakher/Sales-Report-Dashboard-PowerBI/blob/main/Sales-Report-Dashboard-PowerBI.PNG))
+ ![Dashboard Preview](https://github.com/AHMEDiftakher/Sales-Report-Dashboard-PowerBI/blob/main/Sales-Report-Dashboard-PowerBI.PNG)
