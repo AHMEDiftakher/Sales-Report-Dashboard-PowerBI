@@ -16,44 +16,44 @@ The dashboard was built using the following tools and technologies:<br>
 
 ### 4.	Data Source
 Sample retail sales dataset<br>
-The dataset contains transactional sales records including:
-• Customer category information
-• City-wise sales data
-• Monthly and yearly sales trends
-• Quantity sold and transaction counts
+The dataset contains transactional sales records including:<br>
+• Customer category information<br>
+• City-wise sales data<br>
+• Monthly and yearly sales trends<br>
+• Quantity sold and transaction counts<br>
 The structured data supports time-series analysis, segmentation, and KPI evaluation.
 
 ### 5.	Features / Highlights
-🔎 Business Problem
-Organizations often struggle to extract actionable insights from raw sales data. Key questions like:
-• Which customer segment drives the most revenue?
-• How do sales vary by region and month?
-• What trends indicate growth or decline?
+🔎 Business Problem<br>
+Organizations often struggle to extract actionable insights from raw sales data. Key questions like:<br>
+• Which customer segment drives the most revenue?<br>
+• How do sales vary by region and month?<br>
+• What trends indicate growth or decline?<br>
 … are difficult to answer without visualization.
 
-🎯 Goal of the Dashboard
-To deliver an interactive analytics tool that:
-• Provides a consolidated view of sales performance
-• Enables exploration of customer and regional insights
+🎯 Goal of the Dashboard<br>
+To deliver an interactive analytics tool that:<br>
+• Provides a consolidated view of sales performance<br>
+• Enables exploration of customer and regional insights<br>
 • Supports strategic planning and forecasting
 
-📈 Walkthrough of Key Visuals
-Key KPIs Panel
-• Total Sales value
-• Quantity sold
-• Transaction count
+📈 Walkthrough of Key Visuals<br>
+Key KPIs Panel<br>
+• Total Sales value<br>
+• Quantity sold<br>
+• Transaction count<br>
 
-Customer Category Analysis (Bar Chart):  Highlights top-performing customer segments such as supermarkets and corporate clients.
-City-wise Sales Distribution (Donut Chart): Displays regional contribution to overall sales performance.
-Monthly Sales Trend (Line Chart): Identifies seasonality and growth patterns across the year.
-Monthly Quantity Analysis (Column Chart): Shows demand variations and purchasing behavior trends.
-Interactive Filters (Slicers): Year and month filters allow users to drill down into specific periods for deeper analysis.
+Customer Category Analysis (Bar Chart):  Highlights top-performing customer segments such as supermarkets and corporate clients.<br>
+City-wise Sales Distribution (Donut Chart): Displays regional contribution to overall sales performance.<br>
+Monthly Sales Trend (Line Chart): Identifies seasonality and growth patterns across the year.<br>
+Monthly Quantity Analysis (Column Chart): Shows demand variations and purchasing behavior trends.<br>
+Interactive Filters (Slicers): Year and month filters allow users to drill down into specific periods for deeper analysis.<br>
 
-🚀 Business Impact & Insights
-• Performance Monitoring: Track sales growth and detect fluctuations
-• Customer Segmentation: Identify high-value customer groups
-• Regional Strategy: Understand geographic sales distribution
-• Decision Support: Enable data-driven marketing and inventory planning
+🚀 Business Impact & Insights<br>
+• Performance Monitoring: Track sales growth and detect fluctuations<br>
+• Customer Segmentation: Identify high-value customer groups<br>
+• Regional Strategy: Understand geographic sales distribution<br>
+• Decision Support: Enable data-driven marketing and inventory planning<br>
 
 ### 6.	Screenshots / Demos
  ![Dashboard Preview](https://github.com/AHMEDiftakher/Sales-Report-Dashboard-PowerBI/blob/main/Sales-Report-Dashboard-PowerBI.PNG))
